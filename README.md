@@ -3,11 +3,11 @@ Multi-robot coordination system developed for the Lam Research Challenge 2025, f
 
 # LAMe Multi-Robot Coordination System
 
-### Lam Research Challenge 2025 | Top 15 Finalist Team
+### Lam Research Challenge 2025 | Top 24 Finalist Team
 
 A cooperative multi-robot system developed for the **Lam Research Challenge 2025 (LRC)** by **Team LAMe**, comprising an autonomous line-following robot (**ALFR**) and a manually operated robotic manipulator (**SARM**) working together to complete a dynamic obstacle-clearing and navigation challenge.
 
-Our team advanced from a pool of **7000+ applicants** to become one of the **Top 15 teams nationally**, qualifying for the final round held in Bangalore.
+Our team advanced from a pool of **7000+ applicants** to become one of the **Top 24 teams nationally**, qualifying for the final round held in Bangalore.
 
 ---
 
@@ -133,7 +133,7 @@ The robots operate together, with SARM removing obstacles while ALFR autonomousl
 ## Results
 
 * Qualified among **Top 96 teams** from over **7000 applicants**
-* Advanced to the **Top 15 Finalists Nationwide**
+* Advanced to the **Top 24 Finalists Nationwide**
 * Invited to compete at the **Lam Research Challenge Finals, Bangalore**
 * Successfully completed both simulation and hardware evaluation rounds
 
