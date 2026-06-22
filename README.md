@@ -132,7 +132,7 @@ The robots operate together, with SARM removing obstacles while ALFR autonomousl
 
 ## Results
 
-* Qualified among **Top 96 teams** from over **7000 applicants**
+* Qualified among **Top 96** from over **7000 applicants**
 * Advanced to the **Top 24 Finalists Nationwide**
 * Invited to compete at the **Lam Research Challenge Finals, Bangalore**
 * Successfully completed both simulation and hardware evaluation rounds
